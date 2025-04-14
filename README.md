@@ -10,7 +10,7 @@ Meet a cybersecurity professional focused on solving the challenges today’s or
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Detaction & Security Operations
+## 🚨 Threat Detection & Security Operations
 
 - **[SIEM-Based Threat Correlation Dashboard]
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
