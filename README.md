@@ -6,7 +6,7 @@ Meet a cybersecurity professional focused on solving the challenges today’s or
 ## ⚠️ Vulnerability & Risk Management Projects
 
 - **[VulnScanner Lightweight Script for Detecting CVEs](https://github.com/tectaktix/VulnScanner-Lightweight-Script-for-Detecting-CVEs)**
-- **[System Patch Audit Automation (PowerShell)(
+- **[PatchAudit Windows Update Checker with PowerShell](
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
