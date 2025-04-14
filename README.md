@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/michele-miller-6a82011b7/">Michele Miller</a>'s TecTakTix Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/michele-miller-6a82011b7/">Michele Miller</a> TecTakTix Project Portfolio 🔐
 
 Meet a cybersecurity professional focused on solving the challenges today’s organizations face in threat detection, risk mitigation, and operational resilience. TechTactix brings a hands-on, solutions-first approach to every project — each one designed to address real-world security concerns head-on. Whether it's automating patch management, identifying vulnerabilities before attackers do, or streamlining SOC workflows, this portfolio is built for decision-makers seeking talent that delivers measurable impact.
 
