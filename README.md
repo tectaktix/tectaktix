@@ -3,7 +3,7 @@
 Meet an IT professional focused on solving the challenges today’s organizations face in threat detection, risk mitigation, and operational resilience. We bring a hands-on, solutions-first approach to every project — each one designed to address real-world security concerns head-on. Whether it's automating patch management, identifying vulnerabilities before attackers do, or streamlining SOC workflows, this portfolio is built for decision-makers seeking talent that delivers measurable impact.
 
 
-## ⚠️ Vulnerability & Risk Management Projects
+## ⚠️ Vulnerability & Risk Management Assessments
 
 - **[VulnScanner Lightweight Script for Detecting CVEs](https://github.com/tectaktix/VulnScanner-Lightweight-Script-for-Detecting-CVEs)**
 - **[PatchAudit Windows Update Checker with PowerShell](https://github.com/tectaktix/PatchAudit-Windows-Update-Checker-with-PowerShell)**
