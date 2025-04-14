@@ -12,7 +12,7 @@ Meet a cybersecurity professional focused on solving the challenges today’s or
 
 ## 🚨 Threat Detection & Security Operations
 
-- **[SIEM-Based Threat Correlation Dashboard](
+- **[SIEM-Based Threat Correlation Dashboard](https://github.com/tectaktix/SIEM-Based-Threat-Correlation-Dashboard)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
